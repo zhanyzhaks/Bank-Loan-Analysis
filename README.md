@@ -6,6 +6,21 @@ This project provides an in-depth analysis of bank loan applications using Micro
 The bank loan analysis project explores trends in 38.6K loan applications worth over $435.8 million. It distinguishes between good and bad loans, examines repayment patterns, and identifies high-risk categories based on demographics and employment data. The findings help inform policy changes and risk mitigation strategies.
 
 ## 📌 Key Insights
+### 📉 Summary Dashboard
+Good Loans: 86.2% (33.2K applications)
+
+Bad Loans: 13.8% (5.3K applications)
+
+Fully Paid Loans: 93.7%
+
+Charged Off Loans: 6.3%
+
+Employment History: Applicants with 10+ years had the most applications
+
+Performance: Good loans had the highest issuance and repayment value
+
+<img src="Loan-Summary.png" width="700"/>
+
 ### 🧮 Overview Dashboard
 Total Applications: 38.6K
 
@@ -29,20 +44,6 @@ Home Ownership: Majority of applicants are homeowners
 
 <img src="Loan-Overview.png" width="700"/>
 
-### 📉 Summary Dashboard
-Good Loans: 86.2% (33.2K applications)
-
-Bad Loans: 13.8% (5.3K applications)
-
-Fully Paid Loans: 93.7%
-
-Charged Off Loans: 6.3%
-
-Employment History: Applicants with 10+ years had the most applications
-
-Performance: Good loans had the highest issuance and repayment value
-
-<img src="Loan-Summary.png" width="700"/>
 
 ## ✅ Conclusion
 The bank’s portfolio shows a high success rate in repayment, with good loans constituting a strong majority. Although charged-off loans remain minimal, targeting improved verification and analyzing employment status can reduce the bad loan ratio further. These insights guide better risk management and policy formulation.
@@ -53,9 +54,20 @@ Microsoft Excel – Data cleaning, visualization, and dashboard creation
 MS Word  – Documentation
 
 ## 📎 Files Included
-File	Description
-Loan-Overview.png	Visual dashboard showing KPIs like total loan issued, average interest, etc.
-Loan-Summary.png	Summary insights including good vs bad loan performance
-Bank_Loan_Analysis_Report.docx	Detailed report in APA format
-Bank_Loan_Analysis_Report.pdf	Same report in PDF format
-Bank_Loan_Analysis_Report.pptx	Slide presentation summarizing the project
+| File | Description |
+|------|-------------|
+| [Loan-Overview.png](Loan-Overview.png) | Visual dashboard showing KPIs like total loan issued, average interest, etc. |
+| [Loan-Summary.png](Loan-Summary.png) | Summary insights including good vs bad loan performance |
+| [Bank_Loan_Analysis_Report.docx](Bank_Loan_Analysis_Report.docx) | Detailed report in APA format |
+| [financial_loan.csv](financial_loan.csv) | Dataset for the project |
+
+
+## 📣 Credits
+Created by **I. Z. Zhakom** — Data Scientist & Visualization Enthusiast.
+
+## 📬 Contact
+📧 Email: zhantimzhakom@gmail.com
+
+💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/zhantim-zhakom)
+
+💼 Facebook: [Facebook Profile](https://facebook.com/zhantim-zhakom)
