@@ -27,6 +27,8 @@ Verification: Majority are source verified or not verified
 
 Home Ownership: Majority of applicants are homeowners
 
+<img src="Loan-Overview.png" width="700"/>
+
 ### 📉 Summary Dashboard
 Good Loans: 86.2% (33.2K applications)
 
@@ -39,6 +41,8 @@ Charged Off Loans: 6.3%
 Employment History: Applicants with 10+ years had the most applications
 
 Performance: Good loans had the highest issuance and repayment value
+
+<img src="Loan-Summary.png" width="700"/>
 
 ## ✅ Conclusion
 The bank’s portfolio shows a high success rate in repayment, with good loans constituting a strong majority. Although charged-off loans remain minimal, targeting improved verification and analyzing employment status can reduce the bad loan ratio further. These insights guide better risk management and policy formulation.
